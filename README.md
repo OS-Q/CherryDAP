@@ -1,6 +1,6 @@
-# CherryDAP
+# [CherryUSB](https://github.com/OS-Q/CherryUSB)
 
-CherryDAP is a DAPLink template based on [CherryUSB](https://github.com/sakumisu/CherryUSB) and [ARMmbed DAPLink](https://github.com/ARMmbed/DAPLink).
+DAPLink template based on [ARMmbed DAPLink](https://github.com/ARMmbed/DAPLink).
 
 # Feature
 
